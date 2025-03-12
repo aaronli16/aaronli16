@@ -5,7 +5,7 @@
 
 ### <b>Data Structures and Algorithms Practice </b>
 
-### 🏗 Maze Generation & Pathfinding
+### 🏗 LostAF - Maze Generation & Pathfinding
 A project exploring **graph algorithms and disjoint sets** to generate **random, solvable mazes** and compute **the shortest path solutions**.
 
 🚀 **Features:**
@@ -18,8 +18,8 @@ A project exploring **graph algorithms and disjoint sets** to generate **random,
 - **Languages:**  Java 
 - **Algorithms:** Dijkstra’s, Kruskal’s, Union-Find (Disjoint Sets)
 
-🔗 **[GitHub Repo](#)**
-add later
+🔗 **[GitHub Repo](https://github.com/aaronli16/LostAF)**
+
 
 ### <b>Full Stack Web Apps: </b>
 

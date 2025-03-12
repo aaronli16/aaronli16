@@ -34,7 +34,7 @@ A **community-driven fire tracking platform** that allows users to **report wild
 
 🛠 **Tech Stack:**
 - **Frontend:** React.js
-- **Backend:** Firebase (Firestore, Authentication)
+- **Backend:** Firebase (Authentication, Realtime Database)
 - **Mapping:** Leaflet API & Nominatim
 - **Hosting:** Firebase Hosting
 

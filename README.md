@@ -38,7 +38,7 @@ A **community-driven fire tracking platform** that allows users to **report wild
 - **Mapping:** Leaflet API & Nominatim
 - **Hosting:** Firebase Hosting
 
-🔗 **[GitHub Repo](#)(https://github.com/aaronli16/FireTrack)** 
+🔗 **[GitHub Repo](https://github.com/aaronli16/FireTrack)** 
 
 
 

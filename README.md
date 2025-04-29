@@ -1,5 +1,5 @@
 <h1>Hey, I'm Aaron! 👋</h1>
-<h3>CS Student | Software Developer | Data Enthusiast | </h3>
+<h3>Data Science Student | Software Developer | Data Enthusiast | </h3>
 <h4>Passionate about building impactful tech solutions in AI, sustainability, and full-stack development.</h4>
 
 

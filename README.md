@@ -2,9 +2,9 @@
 <h3>Informatics and Statistics: Data Science </h3>
 <h4>Passionate about building impactful tech solutions in AI, sustainability, and full-stack development.</h4>
 
-
+---
 ### <b>Data Structures and Algorithms Practice </b>
-
+---
 ### 🏗 LostAF - Maze Generation & Pathfinding
 A project exploring **graph algorithms and disjoint sets** to generate **random, solvable mazes** and compute **the shortest path solutions**.
 
@@ -20,9 +20,15 @@ A project exploring **graph algorithms and disjoint sets** to generate **random,
 
 🔗 **[GitHub Repo](https://github.com/aaronli16/LostAF)**
 
+## What I Learned
 
+- How to implement core graph algorithms like Dijkstra's and Kruskal's from scratch
+- Built my own Union-Find (disjoint set) data structure and understood its use in connectivity
+- Learned to structure Java code across multiple classes and test edge cases
+- Gained confidence in turning theoretical CS concepts into something visual and interactive
+---
 ### <b>Full Stack Web Apps: </b>
-
+---
 ### 🔥 FireTrack
 A **community-driven fire tracking platform** that allows users to **report wildfires**, **share critical information**, and **organize/promote fundraisers/events** for disaster relief.
 
@@ -39,6 +45,14 @@ A **community-driven fire tracking platform** that allows users to **report wild
 - **Hosting:** Firebase Hosting
 
 🔗 **[GitHub Repo](https://github.com/aaronli16/FireTrack)** 
+
+## What I Learned
+
+- How to build and deploy a full-stack app using React and Firebase
+- Integrated third-party APIs like Leaflet and Nominatim to build interactive maps
+- Learned to manage real-time user input and authentication using Firebase services
+- Saw how community-focused apps need intuitive UI and clear information flow
+- Practiced scoping MVP features and making design trade-offs
 
 
 ---
@@ -59,6 +73,12 @@ An **AI-powered accessibility tool** designed to generate **customizable image d
 
 🔗 **[GitHub Repo](https://github.com/aaronli16/InSight)**
 
+## What I Learned
+
+- How to connect a Colab-hosted backend with a local frontend using ngrok
+- Basics of working with Detectron2 and object detection pipelines
+- Handling API requests between Flask and React
+- Navigating challenges with system compatibility and debugging Python packages
 ---
 
 

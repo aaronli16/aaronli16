@@ -1,5 +1,5 @@
 <h1>Hey, I'm Aaron! 👋</h1>
-<h3>Data Science Student | Software Developer | Data Enthusiast | </h3>
+<h3>Informatics and Statistics: Data Science </h3>
 <h4>Passionate about building impactful tech solutions in AI, sustainability, and full-stack development.</h4>
 
 
@@ -41,6 +41,25 @@ A **community-driven fire tracking platform** that allows users to **report wild
 🔗 **[GitHub Repo](https://github.com/aaronli16/FireTrack)** 
 
 
+---
+
+### 🧠 InSight - AI-Powered Image Descriptor
+An **AI-powered accessibility tool** designed to generate **customizable image descriptions** for users with visual impairments. Built with a Colab-hosted backend using Detectron2 + Claude API, and a responsive Next.js frontend.
+
+🚀 **Features:**
+- Upload an image and receive a natural language description powered by computer vision + AI
+- Customizable outputs based on vision needs (e.g. color blindness, short vs detailed descriptions)
+- Backend hosted on **Google Colab** with a live tunnel to local frontend via **ngrok**
+
+🛠 **Tech Stack:**
+- **Frontend:** Next.js, React, TailwindCSS
+- **Backend:** Flask (Colab), Detectron2, Claude API
+- **Tools:** ngrok, Pandas, Web scraping
+- **Data:** VizWiz Dataset
+
+🔗 **[GitHub Repo](https://github.com/aaronli16/InSight)**
+
+---
 
 
 

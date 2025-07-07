@@ -46,6 +46,8 @@ A **community-driven fire tracking platform** that allows users to **report wild
 
 🔗 **[GitHub Repo](https://github.com/aaronli16/FireTrack)** 
 
+**Live Demo:** [firetrack-80309.web.app](https://firetrack-80309.web.app)
+
 ## What I Learned
 
 - How to build and deploy a full-stack app using React and Firebase

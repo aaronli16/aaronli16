@@ -1,9 +1,9 @@
 <h1>Hey, I'm Aaron! 👋</h1>
 <h3>Informatics and Statistics: Data Science </h3>
-<h4>Passionate about building impactful tech solutions in AI, sustainability, and full-stack development.</h4>
+<h4>Passionate about building impactful tech solutions in AI, sustainability, music,  and full-stack development.</h4>
 
----
-### <b>Data Structures and Algorithms Practice </b>
+
+
 ---
 ### 🏗 LostAF - Maze Generation & Pathfinding
 A project exploring **graph algorithms and disjoint sets** to generate **random, solvable mazes** and compute **the shortest path solutions**.
@@ -27,8 +27,7 @@ A project exploring **graph algorithms and disjoint sets** to generate **random,
 - Learned to structure Java code across multiple classes and test edge cases
 - Gained confidence in turning theoretical CS concepts into something visual and interactive
 ---
-### <b>Full Stack Web Apps: </b>
----
+
 ### 🔥 FireTrack
 A **community-driven fire tracking platform** that allows users to **report wildfires**, **share critical information**, and **organize/promote fundraisers/events** for disaster relief.
 
@@ -83,7 +82,29 @@ An **AI-powered accessibility tool** designed to generate **customizable image d
 - Navigating challenges with system compatibility and debugging Python packages
 ---
 
+### 🎵 SimSample - Audio Similarity Search
+As a fellow beginner music producer with no music theory background, I got lazy doom scrolling through splice for my desired sound. I constantly hear sounds when I listen to my favorite artists and I wish I can find something similar. That is why I built an ** audio processing system** that lets music producers upload sample libraries and find similar sounds instantly using **audio fingerprinting** and **similarity search**. 
 
+🚀 **Features:**
+- **Chunked Processing:** Handles 500MB+ sample libraries through distributed batch processing
+- **Audio Fingerprinting:** Extracts MFCC features using librosa for similarity comparison
+- **FAISS Search:** Fast similarity search across thousands of audio samples
+- **Cloud Deployment:** Production-ready deployment on Google Cloud Run with memory optimization
+
+🛠 **Tech Stack:**
+- **Frontend:** React, TailwindCSS
+- **Backend:** Flask, librosa, FAISS
+- **Cloud:** Google Cloud Run
+- **Audio:** MFCC feature extraction, similarity algorithms
+
+🔗 **[Live Demo](https://simsample-371783151021.us-central1.run.app)**
+
+## What I Learned
+- Solved cloud memory constraints through chunked processing architecture
+- Implemented audio fingerprinting and similarity search algorithms
+- Deployed production systems handling large file uploads (500MB+)
+- Learned to balance technical performance with user experience under resource constraints
+---
 
 ### 🤳 Connect with Me:
 

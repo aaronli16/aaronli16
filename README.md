@@ -99,6 +99,9 @@ As a fellow beginner music producer with no music theory background, I got lazy 
 
 🔗 **[Live Demo](https://simsample-371783151021.us-central1.run.app)**
 
+**[Live Video Demo](https://www.youtube.com/watch?v=GU8TpB0VaZ8)**
+
+
 ## What I Learned
 - Solved cloud memory constraints through chunked processing architecture
 - Implemented audio fingerprinting and similarity search algorithms

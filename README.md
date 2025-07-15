@@ -96,6 +96,8 @@ As a fellow beginner music producer with no music theory background, I got lazy 
 - **Backend:** Flask, librosa, FAISS
 - **Cloud:** Google Cloud Run
 - **Audio:** MFCC feature extraction, similarity algorithms
+- 
+🔗 **[GitHub Repo](https://github.com/aaronli16/SimSample)**
 
 🔗 **[Live Demo](https://simsample-371783151021.us-central1.run.app)**
 

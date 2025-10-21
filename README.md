@@ -9,7 +9,7 @@
 
   ---
 
-  ### 🤖 Jubai - AI Email Automation
+  ### Jubai - AI Email Automation
   **Train one AI VA, get the work of ten.** An AI-powered email automation platform that helps ecommerce brands automate customer support with human-quality responses.
 
   **Features:**
@@ -40,7 +40,7 @@
 
   ---
 
-  ### 🎵 SimSample - Audio Similarity Search
+  ###  SimSample - Audio Similarity Search
   As a fellow beginner music producer with no music theory background, I got lazy doom scrolling through splice for my desired sound. I constantly hear sounds when I listen to
   my favorite artists and I wish I can find something similar. That is why I built an **audio processing system** that lets music producers upload sample libraries and find
   similar sounds instantly using **audio fingerprinting** and **similarity search**.

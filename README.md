@@ -2,7 +2,7 @@
   <h3>Double major in Informatics and Statistics at the University of Washington </h3>
  
 
-  I'm passionate about creating products that help people form meaningful experiences and memories. Whether it's through AI-powered tools, music production workflows, or
+  I'm passionate about creating products that help people form meaningful experiences and memories. Whether it's through AI-powered tools, music tech, or
   community platforms, I'm driven to build things that matter.
 
   Currently working on **Jubai** — an AI email automation platform for ecommerce brands. Always exploring new ideas in music tech, sustainability, and full-stack development.
